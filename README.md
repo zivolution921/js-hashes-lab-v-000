@@ -23,6 +23,8 @@ tacoIngredients //=> {tortillas: "1 dozen, small", cheese: "a lot"}
 
 + Create a function `updateIngredient` which accepts three parameters: the recipe, the ingredient you'd like to update, and the amount of that ingredient. The function should update the hash and return the updated hash.
 
-+ Create a function `readRecipe` which does not accept any parameters. The function should `console.log` a string of each ingredient and the amount `"this recipe calls for <amount> of <ingredient>"`
++ Create a function `readRecipe` which accepts a recipe object as a parameter. The function should `console.log` a string of each ingredient and the amount `"this recipe calls for <amount> of <ingredient>"`
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-hashes-lab' title='Recipe Maker'>Recipe Maker</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-hashes-lab'>Hashes in JS Lab</a> on Learn.co and start learning to code for free.</p>
